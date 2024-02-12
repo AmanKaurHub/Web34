@@ -14,7 +14,7 @@
        <li>Kim Kardashian</li>
        <li>Dwayne Johnson</li>
        <li>Taylor Swift</li>
-       <li>Katy Perry</li>
+       <li> Aman</li>
        <li>Ariana Grande</li>
     </ul>
     <h3>What is a social media influencer?</h3>
